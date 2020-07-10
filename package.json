@@ -45,7 +45,7 @@
   "dependencies": {
     "chalk": "^0.5.1",
     "cross-spawn": "^0.2.3",
-    "gaze": "^0.5.1",
+    "gaze": "^1.1.0",
     "get-stdin": "^3.0.0",
     "meow": "^2.0.0",
     "mkdirp": "^0.5.0",
